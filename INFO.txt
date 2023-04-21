@@ -1,0 +1,13 @@
+<!DOCTYPE html> //to let web know it is html
+ 
+<html>
+	<head>
+ 	</head>
+
+	<body>
+	</body>>
+</html>
+//the code above is basic html
+
+<meta charset="utf-8"> //to make the char to bit
+<meta name="viewport" content="width-device-width, initial-scale=1"> //to make it width according to device, and scale=1 is not zoom in or out
